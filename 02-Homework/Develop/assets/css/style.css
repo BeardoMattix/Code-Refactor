@@ -23,8 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/* After changing the html to represent the <nav> I updated the CSS to style the header correctly by changing the div tags to nav */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,12 +32,12 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
-    display: inline-block;
+.header nav li {
+    display: inline;
     margin-left: 25px;
 }
 
@@ -87,6 +87,7 @@ p {
     background-color: #2589bd;
     font-size: 25px;
     text-align: center;
+    color: white;
 }
 /* I consolidated the benefits style sections to one main section because they all have the same style */
 .benefit-brand 
