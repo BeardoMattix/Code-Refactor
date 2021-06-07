@@ -1,4 +1,4 @@
-# <Homework Week 1: Code-Refactor>
+# Homework Week 1: Code-Refactor
 
 ## Description
 This assignment asked us to refactor existing code to keep the main functionality, while cleaning up errors and consolidating styles in css. I was motivated to understand what it means to take existing code and clean it up without changing the functionality of the website. 
