@@ -24,9 +24,9 @@ I also reorganized the order of the styles in the css file to follow the structu
 ![Demo_screenshot_3](https://user-images.githubusercontent.com/82903201/121051935-e451a380-c787-11eb-87fb-d097f51e9e96.png)
 
 The problem solved by this project is: 
-1). It makes the website meet accessibility standards.
-2). It cleans up the existing code to follow semantic html best practices.
-3). Fixes sections of broken code.
-4). Cololidates and reorganizes the CSS stylesheet to follow the structure of the html index.
+* 1). It makes the website meet accessibility standards.
+* 2). It cleans up the existing code to follow semantic html best practices.
+* 3). Fixes sections of broken code.
+* 4). Cololidates and reorganizes the CSS stylesheet to follow the structure of the html index.
 
 In this project I learned how to examine existing code and look for broken code and code that does not follow semantic html. I also learned the value of having a css stylesheet that follows the structure of the html index, which makes changing styles a lot easier to navigate. I also learned how to apply the css lessons from the past week of bootcamp classes and integrate them into this project (specifically when consoildating code). 
