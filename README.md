@@ -1,7 +1,7 @@
 # <Homework Week 1: Code-Refactor>
 
 ## Description
-This assignment asked us to refactor existing code to keep the main functionality, while cleaning up errors and consolidate styles in css. I was motivated to understand what it means to take existing code and clean it up without changing the functionality of the website. 
+This assignment asked us to refactor existing code to keep the main functionality, while cleaning up errors and consolidating styles in css. I was motivated to understand what it means to take existing code and clean it up without changing the functionality of the website. 
 
 The first thing I did was open up the html in a browser and looked through the code to see what worked, and what didn't. I noticed some links that didn't function properly, the title was undefined, and also noticed that the images were missing the alt text. 
 
