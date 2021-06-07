@@ -55,26 +55,16 @@ a {
     background-position: center;
 }
 
-/* I added a margin-bottom so the <p> text has space between the headings in the benefits section */
-p {
-    font-size: 16px;
-    margin-bottom: 20px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+/* I added a margin-bottom so the <p> text has space between the headings in the benefits section and moved this set of styles down to follow the structure of the html. */
+p {
+    font-size: 16px;
+    margin-bottom: 30px;
 }
 
 .search-engine-optimization {
@@ -114,6 +104,16 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 .search-engine-optimization h2 {
@@ -158,19 +158,19 @@ p {
 /* I changed the margins on the images to bring the headings down and make the spacing look cleaner and easier to read. */
 .benefit-lead img {
     display: block;
-    margin: -10px auto;
+    margin: -5px auto;
     max-width: 150px;
 }
 
 .benefit-brand img {
     display: block;
-    margin: -10px auto;
+    margin: -5px auto;
     max-width: 150px;
 }
 
 .benefit-cost img {
     display: block;
-    margin: -10px auto;
+    margin: -5px auto;
     max-width: 150px;
 }
 .footer {
