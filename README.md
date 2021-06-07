@@ -1,5 +1,4 @@
-# homework-week-1
-First homework assignment for bootcamp
+# <Homework Week 1: Code-Refactor>
 
 This assignment asked us to refactor existing code to keep the main functionality, while cleaning up errors and consolidate styles in css. I was motivated to understand what it means to take existing code and clean it up without changing the functionality of the website. 
 
@@ -18,3 +17,11 @@ After digging through the index.html, I moved on to the the css styles. I notice
 While looking through the css stylesheet I noticed some issue between the code and the mockup we were given. I changed the text color in the .benefits container from black to white, and changed the margins so there was a defined space between each sub section of benefits (I added a larger bottom margin to the .p section). I also chaged the margin on the images in the benefits section to make the spacing look better. 
 
 I also reorganized the order of the styles in the css file to follow the structure of the html code. This should make it easier to adjust styles because it is organized the same way. 
+
+The problem solved by this project is: 
+1). It makes the website meet accessibility standards.
+2). It cleans up the existing code to follow semantic html best practices.
+3). Fixes sections of broken code.
+4). Cololidates and reorganizes the CSS stylesheet to follow the structure of the html index.
+
+In this project I learned how to examine existing code and look for broken code and code that does not follow semantic html. I also learned the value of having a css stylesheet that follows the structure of the html index, which makes changing styles a lot easier to navigate. I also learned how to apply the css lessons from the past week of bootcamp classes and integrate them into this project (specifically when consoildating code). 
