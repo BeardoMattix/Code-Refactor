@@ -1,5 +1,6 @@
 # <Homework Week 1: Code-Refactor>
 
+## Description
 This assignment asked us to refactor existing code to keep the main functionality, while cleaning up errors and consolidate styles in css. I was motivated to understand what it means to take existing code and clean it up without changing the functionality of the website. 
 
 The first thing I did was open up the html in a browser and looked through the code to see what worked, and what didn't. I noticed some links that didn't function properly, the title was undefined, and also noticed that the images were missing the alt text. 
@@ -17,6 +18,10 @@ After digging through the index.html, I moved on to the the css styles. I notice
 While looking through the css stylesheet I noticed some issue between the code and the mockup we were given. I changed the text color in the .benefits container from black to white, and changed the margins so there was a defined space between each sub section of benefits (I added a larger bottom margin to the .p section). I also chaged the margin on the images in the benefits section to make the spacing look better. 
 
 I also reorganized the order of the styles in the css file to follow the structure of the html code. This should make it easier to adjust styles because it is organized the same way. 
+
+![Demo_screenshot_1](https://user-images.githubusercontent.com/82903201/121051932-e3b90d00-c787-11eb-9f94-dea3a8acc14e.png)
+![Demo_screenshot_2](https://user-images.githubusercontent.com/82903201/121051934-e3b90d00-c787-11eb-8ee9-8ce6291492ad.png)
+![Demo_screenshot_3](https://user-images.githubusercontent.com/82903201/121051935-e451a380-c787-11eb-87fb-d097f51e9e96.png)
 
 The problem solved by this project is: 
 1). It makes the website meet accessibility standards.
